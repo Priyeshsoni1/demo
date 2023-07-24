@@ -1,0 +1,30 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh-200px;
+}
+.app input{
+    margin-bottom: 20px;
+    text-decoration: none;
+    border: none;
+    min-width: 25rem;
+    min-height: 2rem;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    color: black;
+}
+.app input:hover{
+    text-decoration: none;
+}
+.container{
+    display: flex;
+ 
+    align-items: center;
+
+}
+.error{
+    color: red;
+}
+

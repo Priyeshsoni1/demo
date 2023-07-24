@@ -1,0 +1,19 @@
+{
+  "super": [
+    {
+      "id": 1,
+      "title": "rohan",
+      "author": "typicode"
+    },    {
+      "id": 2,
+      "title": "Priyesh",
+      "author": "code"
+    },
+    {
+      "id": 3,
+      "title": "prateek",
+      "author": "type"
+    }
+  ]
+
+}

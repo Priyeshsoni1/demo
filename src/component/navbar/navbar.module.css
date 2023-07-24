@@ -1,0 +1,37 @@
+.container{
+    height: 100px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px 0 70px;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit:cover;
+}
+.loogo{
+    display: flex;
+    align-items: center;
+
+
+}
+.title{
+    font-weight: bold;
+    font-size: 22px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logout{
+    padding: 5px;
+    border: none;
+    background-color: lightgreen;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
